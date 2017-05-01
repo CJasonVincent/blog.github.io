@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/04/29/my-new-post/</loc>
+    <lastmod>2017-04-30T13:50:23.191Z</lastmod>
+    <data>
+        <display>
+        <title>First Step</title>
+        <pubTime>2017-04-29T13:10:06.000Z</pubTime>
+        
+        <tag>文章</tag>
+         
+         
+           
+             
+              <breadCrumb title="blog" url="http://yoursite.com/categories/blog/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/04/29/hello-world/</loc>
+    <lastmod>2017-04-29T10:39:29.193Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-04-29T10:39:29.192Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
