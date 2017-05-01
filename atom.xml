@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://cjasonvincent.github.io/"/>
   <updated>2017-04-30T13:50:23.191Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://cjasonvincent.github.io/</id>
   
   <author>
     <name>Destiny</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>First Step</title>
-    <link href="http://yoursite.com/2017/04/29/my-new-post/"/>
-    <id>http://yoursite.com/2017/04/29/my-new-post/</id>
+    <link href="http://cjasonvincent.github.io/2017/04/29/my-new-post/"/>
+    <id>http://cjasonvincent.github.io/2017/04/29/my-new-post/</id>
     <published>2017-04-29T13:10:06.000Z</published>
     <updated>2017-04-30T13:50:23.191Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://cjasonvincent.github.io/categories/blog/"/>
     
     
-      <category term="文章" scheme="http://yoursite.com/tags/%E6%96%87%E7%AB%A0/"/>
+      <category term="文章" scheme="http://cjasonvincent.github.io/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/29/hello-world/"/>
-    <id>http://yoursite.com/2017/04/29/hello-world/</id>
+    <link href="http://cjasonvincent.github.io/2017/04/29/hello-world/"/>
+    <id>http://cjasonvincent.github.io/2017/04/29/hello-world/</id>
     <published>2017-04-29T10:39:29.192Z</published>
     <updated>2017-04-29T10:39:29.193Z</updated>
     
