@@ -5,9 +5,30 @@
     
     
     
+    
+  <url>
+    <loc>http://cjasonvincent.github.io/2017/05/02/Test1/</loc>
+    <lastmod>2017-05-02T05:50:16.102Z</lastmod>
+    <data>
+        <display>
+        <title>Test1</title>
+        <pubTime>2017-05-02T05:23:55.000Z</pubTime>
+        
+        <tag>hexo主题</tag>
+         
+         
+           
+             
+              <breadCrumb title="资源" url="http://cjasonvincent.github.io/categories/%E8%B5%84%E6%BA%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>http://cjasonvincent.github.io/2017/04/29/my-new-post/</loc>
-    <lastmod>2017-04-30T13:50:23.191Z</lastmod>
+    <lastmod>2017-05-02T05:47:37.900Z</lastmod>
     <data>
         <display>
         <title>First Step</title>
@@ -18,7 +39,7 @@
          
            
              
-              <breadCrumb title="blog" url="http://cjasonvincent.github.io/categories/blog/"/>
+              <breadCrumb title="学习笔记" url="http://cjasonvincent.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
           
         </display>
     </data>

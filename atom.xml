@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cjasonvincent.github.io/"/>
-  <updated>2017-04-30T13:50:23.191Z</updated>
+  <updated>2017-05-02T05:50:16.102Z</updated>
   <id>http://cjasonvincent.github.io/</id>
   
   <author>
@@ -16,11 +16,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test1</title>
+    <link href="http://cjasonvincent.github.io/2017/05/02/Test1/"/>
+    <id>http://cjasonvincent.github.io/2017/05/02/Test1/</id>
+    <published>2017-05-02T05:23:55.000Z</published>
+    <updated>2017-05-02T05:50:16.102Z</updated>
+    
+    <content type="html"><![CDATA[<p>  本站使用的是Hexo的主题Yelee,<br>  <a id="more"></a><br>  部分功能还未完善，由于多说就要关闭，而Disqus又需要翻墙，十分不方便，所以只能用友言了，但是友言又只支持http协议，故而只能绑定独立域名。<br>  有些事说起来容易做起来很难，加油！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  本站使用的是Hexo的主题Yelee,&lt;br&gt;
+    
+    </summary>
+    
+      <category term="资源" scheme="http://cjasonvincent.github.io/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="hexo主题" scheme="http://cjasonvincent.github.io/tags/hexo%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>First Step</title>
     <link href="http://cjasonvincent.github.io/2017/04/29/my-new-post/"/>
     <id>http://cjasonvincent.github.io/2017/04/29/my-new-post/</id>
     <published>2017-04-29T13:10:06.000Z</published>
-    <updated>2017-04-30T13:50:23.191Z</updated>
+    <updated>2017-05-02T05:47:37.900Z</updated>
     
     <content type="html"><![CDATA[<p>This is my first Blog!<br>千里之行，始于足下.<br><a id="more"></a><br>　　　第一次接触手动搭建博客，看到很多人都说亲手搭建的博客才是自己的，而不单单是使用笔记之类的东西。</p>
 ]]></content>
@@ -31,7 +54,7 @@
     
     </summary>
     
-      <category term="blog" scheme="http://cjasonvincent.github.io/categories/blog/"/>
+      <category term="学习笔记" scheme="http://cjasonvincent.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="文章" scheme="http://cjasonvincent.github.io/tags/%E6%96%87%E7%AB%A0/"/>
