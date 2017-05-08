@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cjasonvincent.github.io/"/>
-  <updated>2017-05-02T05:50:16.102Z</updated>
+  <updated>2017-05-08T10:00:26.114Z</updated>
   <id>http://cjasonvincent.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>样例1</title>
+    <link href="http://cjasonvincent.github.io/2017/05/08/%E6%A0%B7%E4%BE%8B1/"/>
+    <id>http://cjasonvincent.github.io/2017/05/08/样例1/</id>
+    <published>2017-05-08T09:33:03.000Z</published>
+    <updated>2017-05-08T10:00:26.114Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天把域名加了进来，感觉有好多坑，但是还是给克服了哈哈哈，开心！<br><a id="more"></a><br>很久没有坚持一件事这么久了，一定要坚持下去啊！！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天把域名加了进来，感觉有好多坑，但是还是给克服了哈哈哈，开心！&lt;br&gt;
+    
+    </summary>
+    
+      <category term="样例" scheme="http://cjasonvincent.github.io/categories/%E6%A0%B7%E4%BE%8B/"/>
+    
+    
+      <category term="样例1" scheme="http://cjasonvincent.github.io/tags/%E6%A0%B7%E4%BE%8B1/"/>
+    
+  </entry>
   
   <entry>
     <title>Test1</title>

@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title><![CDATA[样例1]]></title>
+      <url>/2017/05/08/%E6%A0%B7%E4%BE%8B1/</url>
+      <content type="html"><![CDATA[<p>今天把域名加了进来，感觉有好多坑，但是还是给克服了哈哈哈，开心！<br><a id="more"></a><br>很久没有坚持一件事这么久了，一定要坚持下去啊！！</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 样例 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 样例1 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Test1]]></title>
       <url>/2017/05/02/Test1/</url>
       <content type="html"><![CDATA[<p>  本站使用的是Hexo的主题Yelee,<br>  <a id="more"></a><br>  部分功能还未完善，由于多说就要关闭，而Disqus又需要翻墙，十分不方便，所以只能用友言了，但是友言又只支持http协议，故而只能绑定独立域名。<br>  有些事说起来容易做起来很难，加油！</p>
